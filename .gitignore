@@ -1,0 +1,9 @@
+**/.terraform/*
+terraform.tfstate
+terraform.tfstate.backup
+*.auto.tfvars
+terraform.tfvars
+.DS_Store
+.vscode
+*.tfstate.*
+*.tfplan
